@@ -1,4 +1,4 @@
-# DESD Genius - Bristol Regional Food Network
+# Bristol Regional Food Network
 
 > A full-stack marketplace platform connecting local food producers with conscious consumers. Features AI-powered quality assessment, personalized recommendations, review system, and dynamic discount management.
 
